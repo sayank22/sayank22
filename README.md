@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Sayan
 
-💻 Web Developer | 🌱 Learning MERN Stack | 🚀 Try to solve real-worls Problems
+💻 Full-Stack Developer (MERN) | 🚀 Building Scalable & Real-World Applications
 
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 I’m currently learning **MERN stack**
-- 🔭 I’m working on projects like **AI TestCase Generator** & **Jivaka - a HealthCare Management System**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Node.js, Next, Typescript, Firebase, MongoDB**
+- 💼 **Full-stack developer** with hands-on experience building production-ready applications
+- 🔭 Built projects like **AI Test Case Generator** (AI-powered testing workflow) and **Jivaka** (healthcare management system with automation)
+- 🔍 Currently improving **system design, performance optimization, and backend scalability**
+- 🤝 Open to collaboration, freelance work, and full-time opportunities
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sayan-kundu-70b5442b6/) | [Portfolio](https://sayan-kundu-portfolio.netlify.app/)
 
 ---
