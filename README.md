@@ -19,10 +19,11 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Next.js, Tailwind CSS  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB, PostgreSQL, Firebase  
-- **Tools:** Git, Docker, VS Code  
+**Languages:** TypeScript, JavaScript, Python, HTML
+**Frontend:** React, Next.js, Tailwind CSS, Redux, CSS
+**Backend:**  FastAPI, Node.js, Express.js, REST APIs, Wordpress
+**DevOps & Databases:** Supabase, Redis, MongoDB, SQL, Firebase, AWS, GCP, Docker 
+**Tools:** Git, GitHub, Razorpay Integration, Postman, Figma, WooCommerce, ACF
 
 ---
 
