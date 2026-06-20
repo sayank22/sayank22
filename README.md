@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sayan
 
-💻 Full-Stack Developer (MERN) | 🚀 Building Scalable & Real-World Applications
+💻 Full-Stack Developer | Proven Engineering Experience at Fintech and EdTech
 
 ---
 
